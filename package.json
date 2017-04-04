@@ -1,0 +1,30 @@
+{
+  "name": "npatel_portfolio",
+  "version": "1.0.0",
+  "description": "Nishant Patel Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "postinstall": "bower install",
+    "test": "node ./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishant255/npatel_portfolio.git"
+  },
+  "keywords": [
+    "Nishant",
+    "Patel",
+    "Portfolio",
+    "Full",
+    "Stack",
+    "Web",
+    "Developer"
+  ],
+  "author": "Nishant Patel",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/nishant255/npatel_portfolio/issues"
+  },
+  "homepage": "https://github.com/nishant255/npatel_portfolio#readme"
+}

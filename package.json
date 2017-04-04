@@ -21,10 +21,18 @@
     "Web",
     "Developer"
   ],
-  "author": "Nishant Patel",
+  "author": "Nishant Patel <contact@nishant-patel.com> (http://www.npatel.info)",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/nishant255/npatel_portfolio/issues"
+    "url": "https://github.com/nishant255/npatel_portfolio/issues",
+    "email": "contact@nishant-patel.com"
   },
-  "homepage": "https://github.com/nishant255/npatel_portfolio#readme"
+  "homepage": "https://github.com/nishant255/npatel_portfolio#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "bower": "^1.8.0",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.3"
+  }
 }

@@ -1,0 +1,31 @@
+{
+  "name": "npatel_portfolio",
+  "description": "Nishant Patel Portfolio",
+  "main": "server.js",
+  "authors": [
+    "Nishant Patel <contact@nishant-patel.com> (http://www.npatel.info)"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "Nishant",
+    "Patel",
+    "Portfolio",
+    "Full",
+    "Stack",
+    "Web",
+    "Developer"
+  ],
+  "homepage": "https://github.com/nishant255/npatel_portfolio",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular-route": "^1.6.4"
+  }
+}
